@@ -735,6 +735,3 @@ SUB history
 ' 1959     49 = 4 * 7 + 3 * 7
 ' 1960     50 = 5 * 6 + 4 * 5
 END SUB
-
-USFLAG.BS
-Displaying USFLAG.BS.
